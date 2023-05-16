@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Vitória
 
-<!--
-**vitoriaselista/vitoriaselista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/ana-vitoria-selista-2a3160259/">
+  <img align="left" alt="vitoriaselista LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/vitoriaselista/">
+  <img align="left" alt="vitoriaselista Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
 
-Here are some ideas to get you started:
+Jira administrator and Python programmer with a passion ♡ for organization and creative problem-solving. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on [integrations with Jira REST API](https://github.com/vitoriaselista/Project-cloner-JIRA)
+🌱 I’m currently persuing my degree in Data Science
+
 -->
+![Vitória's github stats](https://github-readme-stats.vercel.app/api?username=vitoriaselista&show_icons=true&hide_border=true)
