@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/ana-vitoria-selista-2a3160259/">
   <img align="left" alt="vitoriaselista LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/vitoriaselista/">
-  <img align="left" alt="vitoriaselista Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br />
 <br />
 
