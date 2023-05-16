@@ -7,7 +7,7 @@
   <img align="left" alt="vitoriaselista Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-
+<br />
 
 Jira administrator and Python programmer with a passion ♡ for organization and creative problem-solving. 
 
