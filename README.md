@@ -11,7 +11,8 @@
 Jira administrator and Python programmer with a passion ♡ for organization and creative problem-solving. 
 
 🔭 I’m currently working on [integrations with Jira REST API](https://github.com/vitoriaselista/Project-cloner-JIRA)
+
 🌱 I’m currently persuing my degree in Data Science
 
--->
+
 ![Vitória's github stats](https://github-readme-stats.vercel.app/api?username=vitoriaselista&show_icons=true&hide_border=true)
