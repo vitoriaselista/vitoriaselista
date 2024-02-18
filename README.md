@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Jira administrator(Cloud) and Python programmer with a passion ♡ for organization and creative problem-solving. 
+Atlassian Consultant and Python programmer with a passion ♡ for organization and creative problem-solving. 
 
 🔭 I’m currently working on [integrations with Jira REST API](https://github.com/vitoriaselista/Project-cloner-JIRA)
 
