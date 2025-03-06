@@ -6,9 +6,6 @@
 <br />
 <br />
 
-Atlassian Consultant and Python programmer with a passion ♡ for organization and creative problem-solving. 
+Data scientist and Atlassian Consultant with a passion ♡ for organization and creative problem-solving. 
 
-🔭 I’m currently working on [integrations with Jira REST API](https://github.com/vitoriaselista/Project-cloner-JIRA)
-
-🌱 I’m currently persuing my degree in Data Science
 
